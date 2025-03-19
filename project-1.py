@@ -1,5 +1,7 @@
 import random
 
+# NUmber guessing game
+
 def guess_num():
     
     secret_num= random.randint(1,100)
